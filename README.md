@@ -14,3 +14,5 @@ store_lkp
 transaction_fct
 
 No column should be nullable.
+
+Please writea sql script to create the structures in the postgres schema and a python script to ingest the data.  Commit both of these files into your fork of this repo and issue a pull request when completed.
