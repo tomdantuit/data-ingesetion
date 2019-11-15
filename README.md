@@ -1,5 +1,5 @@
 # Data Ingestion Interview  
-Located at the following urls are 4 csvs:
+Located at the following urls are 4 csvs:  
 https://datainterviews.blob.core.windows.net/interview-data/causal_lookup.csv
 https://datainterviews.blob.core.windows.net/interview-data/product_lookup.csv
 https://datainterviews.blob.core.windows.net/interview-data/store_lookup.csv
